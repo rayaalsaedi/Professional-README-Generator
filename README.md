@@ -39,5 +39,7 @@ This app creates a README.md file through the command-line application.
   rayaheen@uw.edu
 
   # Visual Presentation
-  Click on the image to play the video.
+  Click on the image below to play the video.
+
+
   [![Watch the video](develop/capture.png)](https://drive.google.com/drive/folders/12TYwCCJL6Tvl7HbwY3Rkn4mNTAFfsjjY?usp=sharing)
