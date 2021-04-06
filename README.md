@@ -37,3 +37,6 @@ This app creates a README.md file through the command-line application.
 
   # Email
   rayaheen@uw.edu
+
+  # Visual Illustration
+  [![Watch the video](https://drive.google.com/drive/folders/12TYwCCJL6Tvl7HbwY3Rkn4mNTAFfsjjY?usp=sharing)]
