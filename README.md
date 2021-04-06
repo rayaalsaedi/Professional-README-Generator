@@ -24,19 +24,20 @@ Open your terminal then access your index.js file through node. You will be prom
 This app creates a README.md file through the command-line application. 
 
   # Installation
-  Make sure to install node.js
+  Make sure to install node and inquirer.
 
   # Tests
   There are no tests set at this time.
   
   # Usage
-  N/A
+  Open your terminal then answer the prompts.
 
-  # Github
+  # Github Username
   Github username:rayaalsaedi
 
   # Email
   rayaheen@uw.edu
 
-  # Visual Illustration
+  # Visual Presentation
+  Click on the image to play the video.
   [![Watch the video](develop/capture.png)](https://drive.google.com/drive/folders/12TYwCCJL6Tvl7HbwY3Rkn4mNTAFfsjjY?usp=sharing)
