@@ -1,5 +1,6 @@
 # README File Generator
-  # README
+
+  # Table of Contents
   ![license](https://img.shields.io/badge/license-MIT-blue.svg)
   * [Instructions](#instructions)
   * [Description](#description)
