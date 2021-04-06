@@ -1,5 +1,5 @@
-# readme
-  # readme//add the other sections for the readme file
+# README File Generator
+  # README
   ![license](https://img.shields.io/badge/license-MIT-blue.svg)
   * [Instructions](#instructions)
   * [Description](#description)
@@ -17,23 +17,23 @@
   
 
   ## Instructions
-
-  none
+Open your terminal then access your index.js file through node. You will be promoted a list of questions to answer. Once you answer all of the questions, your README file will be generated.
+   
 
   # Description
-  readme file
+This app creates a README.md file through the command-line application. 
 
   # Installation
-  undefined
+  Make sure to install node.js
 
   # Tests
-  none
+  There are no tests set at this time.
   
   # Usage
-  none
+  N/A
 
   # Github
-  rayaa
+  Github username:rayaalsaedi
 
   # Email
-  eayaa
+  rayaheen@uw.edu
